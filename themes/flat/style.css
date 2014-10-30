@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.voting-flat {
+  padding: 15px;
+}
+
+.voting-flat .voting {
+
+}
+
+
+.voting-flat .voting a {
+  cursor: pointer;
+  clear: both;
+  display: block;
+  height: 16px;
+  margin: 0 auto;
+  width: 30px;
+  
+}
+
+.voting-flat .voting .upvote {
+  background: url("images/voting.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+
+}
+
+.voting-flat .voting .downvote {
+  background: url("images/voting.png") no-repeat scroll 0 -30px rgba(0, 0, 0, 0);
+
+}
+
+.voting-flat .voting .count {
+  display: inline-block;
+  line-height: 35px;
+  margin: 0 auto;
+  min-width: 30px;
+}
+
+.voting-flat .voting .loding {
+  background: url("images/loading.gif") no-repeat scroll 0 12px rgba(0, 0, 0, 0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
