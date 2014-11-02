@@ -1,4 +1,4 @@
-=== Voting ===
+=== Voting - Upvote & Downvote ===
 Contributors: paratheme
 Donate link: 
 Tags: voting, vote,
